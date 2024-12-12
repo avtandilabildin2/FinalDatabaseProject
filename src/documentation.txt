@@ -1,0 +1,36 @@
+It is necessary to implement some telegram functionality.
+Write a Telegram console application
+Implement a minimal version of the Telegram program that allows people to register in the system and
+send messages to each other.
+The program is console-based and accepts commands in a string format where each command must respond
+with certain functionality.
+
+List of commands:
+exit - Shutdown of the program.
+help - Displays a list of all system commands.
+login - User authentication.
+register - Registration of the user in the system.
+search_user_by_login - User search by login
+logout - User logout
+read_all_message - Displays all messages of the authorized user
+send_message - Sends a message to the user using his username.
+mail_info - Information about the number of messages received.
+info - Output of information about an authorized user of
+the command for an unauthorized user:
+exit - Shutdown of the program.
+help - Displays a list of all system commands.
+login - User authentication.
+register - Registration of the user in the system.
+
+commands for an authorized user:
+exit - Shutdown of the program.
+help - Displays a list of all system commands.
+search_user_by_login - User search by login
+logout - User logout
+read_all_message - Output of all messages of the authorized user
+send_message - Sending a message to the user using his username.
+mail_info - Information about the number of messages received.
+info - information about authorized user.
+
+if you run the class Main it presents the graphical interface.
+if you run the class ConsoleProgram it will work with console.

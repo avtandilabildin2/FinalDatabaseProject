@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="postgresql-42.7.2(1)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Жүктөөлөр/postgresql-42.7.2(1).jar!/" />
+      <root url="jar://$USER_HOME$/Жүктөөлөр/openjfx-23.0.1_linux-x64_bin-sdk.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
